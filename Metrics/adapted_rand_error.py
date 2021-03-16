@@ -1,0 +1,1 @@
+# 计算SNEMI3D竞赛定义的Adapted Rand误差。

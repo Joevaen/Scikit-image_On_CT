@@ -1,0 +1,1 @@
+# Mask corresponding to a flood fill.

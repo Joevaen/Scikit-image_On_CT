@@ -1,0 +1,1 @@
+# Convert an image to boolean format.
